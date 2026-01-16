@@ -76,6 +76,12 @@ If another Stimulus controller modifies the table rows, trigger a refresh:
 document.dispatchEvent(new CustomEvent("tableKatuxos:refresh"))
 ```
 
+--- 
+## Quick access 
+You can also grab the controller directly from this Gist: 
+
+ **https://gist.github.com/katuxos/f5fc75df581472d3755e638e36d1f67a**
+
 ---
 
 ## License
